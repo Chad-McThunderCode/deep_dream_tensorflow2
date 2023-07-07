@@ -1,7 +1,10 @@
 <h3 align="center">
   <img src="assets/deep_dream_icon_web.png" width="300">
 </h3>
-
+<h1>
+	COPIED VERBATIM FROM ORIGINAL REPOSITORY
+	THIS ONLY EXISTS TO PROVIDE COMPATIBILITY WITH RECENT TF
+</h1>
 # Deep Dream
 
 Minimal Python/TensorFlow implementation of the DeepDream algorithm originally created by [Alexander Mordvintsev](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html).
